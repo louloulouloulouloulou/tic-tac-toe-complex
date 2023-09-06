@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-10T19:02:24.626</Modified>
+      <Modified>2023-09-06T14:22:02.086</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-10T10:25:43.214</Modified>
+      <Modified>2023-09-06T14:07:36.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\tic tac toe complex.runtimeconfig.json">
       <PackagePath>tic tac toe complex.runtimeconfig.json</PackagePath>
@@ -44,11 +44,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\tic tac toe complex.dll">
       <PackagePath>tic tac toe complex.dll</PackagePath>
-      <Modified>2023-08-10T19:02:20.857</Modified>
+      <Modified>2023-09-06T14:21:57.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\o_image.png">
+      <PackagePath>Resources\Images\o_image.png</PackagePath>
+      <Modified>2023-08-09T10:29:43.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\um.png">
+      <PackagePath>Resources\Images\um.png</PackagePath>
+      <Modified>2023-09-03T18:30:49.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\x_image.png">
+      <PackagePath>Resources\Images\x_image.png</PackagePath>
+      <Modified>2023-08-09T10:30:23.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>tic tac toe complex.exe</PackagePath>
-      <Modified>2023-08-10T19:02:20.908</Modified>
+      <Modified>2023-09-06T14:21:57.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.7\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +932,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\tic tac toe complex.deps.json">
       <PackagePath>tic tac toe complex.deps.json</PackagePath>
-      <Modified>2023-08-10T19:02:24.037</Modified>
+      <Modified>2023-09-06T14:22:01.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -968,187 +980,187 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-08-10T10:24:43.475</Modified>
+      <Modified>2023-09-05T21:38:36.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.890</Modified>
+      <Modified>2023-09-05T21:38:36.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.911</Modified>
+      <Modified>2023-09-05T21:38:36.843</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.931</Modified>
+      <Modified>2023-09-05T21:38:36.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.966</Modified>
+      <Modified>2023-09-05T21:38:36.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:44.095</Modified>
+      <Modified>2023-09-05T21:38:37.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.584</Modified>
+      <Modified>2023-09-05T21:38:36.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.588</Modified>
+      <Modified>2023-09-05T21:38:36.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.609</Modified>
+      <Modified>2023-09-05T21:38:36.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.592</Modified>
+      <Modified>2023-09-05T21:38:36.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.597</Modified>
+      <Modified>2023-09-05T21:38:36.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.554</Modified>
+      <Modified>2023-09-05T21:38:36.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.559</Modified>
+      <Modified>2023-09-05T21:38:36.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.580</Modified>
+      <Modified>2023-09-05T21:38:36.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.563</Modified>
+      <Modified>2023-09-05T21:38:36.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.568</Modified>
+      <Modified>2023-09-05T21:38:36.467</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.497</Modified>
+      <Modified>2023-09-05T21:38:36.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.502</Modified>
+      <Modified>2023-09-05T21:38:36.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.507</Modified>
+      <Modified>2023-09-05T21:38:36.399</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.512</Modified>
+      <Modified>2023-09-05T21:38:36.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.520</Modified>
+      <Modified>2023-09-05T21:38:36.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.524</Modified>
+      <Modified>2023-09-05T21:38:36.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.528</Modified>
+      <Modified>2023-09-05T21:38:36.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.549</Modified>
+      <Modified>2023-09-05T21:38:36.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.533</Modified>
+      <Modified>2023-09-05T21:38:36.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.537</Modified>
+      <Modified>2023-09-05T21:38:36.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.682</Modified>
+      <Modified>2023-09-05T21:38:36.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.690</Modified>
+      <Modified>2023-09-05T21:38:36.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.701</Modified>
+      <Modified>2023-09-05T21:38:36.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.716</Modified>
+      <Modified>2023-09-05T21:38:36.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.749</Modified>
+      <Modified>2023-09-05T21:38:36.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.645</Modified>
+      <Modified>2023-09-05T21:38:36.559</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.650</Modified>
+      <Modified>2023-09-05T21:38:36.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.655</Modified>
+      <Modified>2023-09-05T21:38:36.572</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.662</Modified>
+      <Modified>2023-09-05T21:38:36.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.675</Modified>
+      <Modified>2023-09-05T21:38:36.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.615</Modified>
+      <Modified>2023-09-05T21:38:36.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.620</Modified>
+      <Modified>2023-09-05T21:38:36.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.625</Modified>
+      <Modified>2023-09-05T21:38:36.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.631</Modified>
+      <Modified>2023-09-05T21:38:36.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.640</Modified>
+      <Modified>2023-09-05T21:38:36.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.759</Modified>
+      <Modified>2023-09-05T21:38:36.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.770</Modified>
+      <Modified>2023-09-05T21:38:36.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.785</Modified>
+      <Modified>2023-09-05T21:38:36.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.809</Modified>
+      <Modified>2023-09-05T21:38:36.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-08-10T10:24:43.875</Modified>
+      <Modified>2023-09-05T21:38:36.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\black_x.scale-100.jpg">
       <PackagePath>black_x.scale-100.jpg</PackagePath>
@@ -1194,6 +1206,10 @@
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-08-08T12:43:32.635</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-100.png">
+      <PackagePath>download.scale-100.png</PackagePath>
+      <Modified>2023-09-03T18:27:47.982</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\o_image.scale-100.png">
       <PackagePath>o_image.scale-100.png</PackagePath>
       <Modified>2023-08-09T10:29:43.450</Modified>
@@ -1201,6 +1217,10 @@
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\o_png.scale-100">
       <PackagePath>o_png.scale-100</PackagePath>
       <Modified>2023-08-09T10:29:43.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\um.scale-100.png">
+      <PackagePath>um.scale-100.png</PackagePath>
+      <Modified>2023-09-03T18:30:49.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\x_image.scale-100.png">
       <PackagePath>x_image.scale-100.png</PackagePath>

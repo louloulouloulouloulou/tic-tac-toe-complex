@@ -39,18 +39,21 @@
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
-		<MauiImage Update="Resources\Images\black_x.jpg">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</MauiImage>
 		<MauiImage Update="Resources\Images\circle_outline.svg">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</MauiImage>
 		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</MauiImage>
-		<MauiImage Update="Resources\Images\x_image.png">
+		<None Update="Resources\Images\o_image.png">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</MauiImage>
+		</None>
+		<None Update="Resources\Images\um.png">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
+		<None Update="Resources\Images\x_image.png">
+		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
 		<MauiImage Update="Resources\Images\x_symbol_svgrepo_com.svg">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</MauiImage>
@@ -60,6 +63,12 @@
 
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\o_image.png" />
+	  <MauiImage Remove="Resources\Images\um.png" />
+	  <MauiImage Remove="Resources\Images\x_image.png" />
 	</ItemGroup>
 
 	<ItemGroup>

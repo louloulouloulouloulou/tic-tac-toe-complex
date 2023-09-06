@@ -337,3 +337,8 @@ C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debu
 C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\x_image.scale-100.png
 C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\x_png.scale-100
 C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\black_x.scale-100.jpg
+C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Resources\Images\x_image.png
+C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-100.png
+C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Resources\Images\o_image.png
+C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\um.scale-100.png
+C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Resources\Images\um.png

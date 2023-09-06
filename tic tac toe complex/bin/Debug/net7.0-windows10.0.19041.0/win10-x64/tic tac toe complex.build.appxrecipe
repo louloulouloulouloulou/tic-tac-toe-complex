@@ -34,6 +34,15 @@
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\tic tac toe complex.dll">
       <PackagePath>tic tac toe complex.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\o_image.png">
+      <PackagePath>Resources\Images\o_image.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\um.png">
+      <PackagePath>Resources\Images\um.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\Resources\Images\x_image.png">
+      <PackagePath>Resources\Images\x_image.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>tic tac toe complex.exe</PackagePath>
     </AppxPackagedFile>
@@ -895,11 +904,17 @@
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\download.scale-100.png">
+      <PackagePath>download.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\o_image.scale-100.png">
       <PackagePath>o_image.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\o_png.scale-100">
       <PackagePath>o_png.scale-100</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\um.scale-100.png">
+      <PackagePath>um.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lourenço\source\repos\tic tac toe complex\tic tac toe complex\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\x_image.scale-100.png">
       <PackagePath>x_image.scale-100.png</PackagePath>
